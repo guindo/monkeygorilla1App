@@ -1,3 +1,7 @@
 # This App will help to recognize between monkey, gorilla, skoala or Sloth
- 
-https://gesis.mybinder.org/binder/v2/gh/guindo/monkeygorillaApp/5da078dd7551eee34a849d3ace899f8da834fc19
+#repository
+https://hub.gke2.mybinder.org/user/guindo-monkeygorilla1app-m5uchlac/tree
+#the code
+https://hub.gke2.mybinder.org/user/guindo-monkeygorilla1app-m5uchlac/notebooks/monkeyApp.ipynb
+#the App
+https://hub.gke2.mybinder.org/user/guindo-monkeygorilla1app-m5uchlac/voila/render/monkeyApp.ipynb
