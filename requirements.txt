@@ -1,7 +1,8 @@
 voila
 Pillow==6.2.2; python_version < '3.5'
 Pillow==7.2.0; python_version >= '3.5'
-fastai2>=0.0.5
+fastai>=0.0.5
+azure-cognitiveservices-search-imagesearch
 packaging
 ipywidgets==7.5.1
 fastbook
