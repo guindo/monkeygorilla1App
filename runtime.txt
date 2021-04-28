@@ -1,1 +1,1 @@
-python-2.7.0
+PYTHON_VERSION-2.7.0
